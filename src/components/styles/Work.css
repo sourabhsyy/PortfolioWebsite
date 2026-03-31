@@ -90,6 +90,22 @@
   width: 100%;
   justify-content: center;
 }
+.work-description {
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.03);
+  padding: 40px;
+  border-radius: 12px;
+  box-sizing: border-box;
+  min-height: 250px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+.work-description p {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #ccc;
+  margin: 0;
+  text-align: left;
+}
 .work-image-in {
   position: relative;
 }

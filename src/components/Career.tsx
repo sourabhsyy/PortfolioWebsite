@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          My Education <span>&</span>
+          <br /> Experience
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Bachelor of Science in Computer Science (CGPA: 7.63)</h4>
+                <h5>K.V.Pendharkar College of Arts, Science and Commerce</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023 – 2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Dombivli, Maharashtra
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Higher Secondary Education (Percentage: 49.50%)</h4>
+                <h5>Eknath B Madhavi Junior College</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2021 – 2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Dombivli, Maharashtra
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Secondary Education (Percentage: 77.60%)</h4>
+                <h5>S.M.G VIDYAMANDIR HIGH SCHOOL</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2015 – 2021</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Diva, Maharashtra
             </p>
           </div>
         </div>
