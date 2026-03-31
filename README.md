@@ -1,65 +1,115 @@
-# My Portfolio Website - Overview 🚀
+# 🌐 Sourabh Yadav — Personal Portfolio
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
+Welcome to my personal portfolio repository 🚀
+This project showcases my work, skills, and projects as a Computer Science student and aspiring Software Engineer.
 
----
-
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+This repository is shared publicly for learning, inspiration, and reference.
 
 ---
 
-## 🛠️ Instructions
+## ⚠️ Important Usage Guidelines
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
+This project is **not fully open-source for reuse**.
 
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+You are welcome to:
+
+* Explore and understand the code
+* Learn concepts and implementation techniques
+* Take inspiration for your own portfolio
+
+However, you are **strictly not allowed to**:
+
+* Copy or replicate the entire website design or structure
+* Re-upload this project with small changes
+* Use this project for freelance, client, or commercial work
+* Publish tutorials or videos using this exact codebase
+
+If you use any portion of this project, **proper credit is mandatory**.
+
+> ⚡ Build your own identity — don’t just duplicate someone else’s work.
+
+— *Sourabh Yadav*
+
+---
+
+## 🛠️ Setup & Installation
+
+To run this project locally:
+
+```bash
+git clone https://github.com/sourabhsyy/PortfolioWebsite.git
+cd PortfolioWebsite
+npm install
+npm run dev
+```
+
+Make sure you have **Node.js** installed on your system.
 
 ---
 
 ## ⚙️ Tech Stack
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
+This portfolio is built using modern web technologies:
+
+* React.js ⚛️
+* TypeScript 🟦
+* Vite ⚡
+* GSAP (Animations) 🎬
+* Three.js / WebGL 🌌
+* HTML5 + CSS3 🎨
+* JavaScript 🧠
 
 ---
 
-## 🎨 Assets Usage
+## 🎯 Features
 
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+* Smooth animations using GSAP
+* Interactive UI/UX
+* 3D elements and modern design
+* Fully responsive layout
+* Fast performance with Vite
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## 🎨 Assets & Content Usage
+
+* Some assets used in this project are publicly available for learning
+* Custom designs, layout structure, and animations are original work
+
+🚫 You are NOT allowed to:
+
+* Copy the full UI/UX design
+* Reuse animations as-is
+* Extract or reuse any custom visuals without permission
+
+---
+
+## 📸 Preview
+
+<img width="1366" height="652" alt="image" src="https://github.com/user-attachments/assets/52d0c39c-a674-481a-bde4-9a780daf6d5a" />
+
 
 ---
 
 ## 📄 License
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+This project is protected under a **Personal Portfolio License (PPL) v1.0**.
 
-See the LICENSE file for full details
+Refer to the `LICENSE` file for full terms and conditions.
 
+---
+
+## 📬 Contact
+
+If you want to collaborate or have any queries:
+
+* GitHub: https://github.com/sourabhsyy
+* Email: sourabhsy009@gmail.com
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub — it helps a lot!
+
+---
