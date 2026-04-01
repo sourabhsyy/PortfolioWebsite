@@ -1,2 +1,2 @@
-declare module "gsap-trial/SplitText";
-declare module "gsap-trial";
+declare module "gsap/SplitText";
+declare module "gsap";
