@@ -55,22 +55,16 @@ const Work = () => {
         <div className="work-flex">
           {[
             {
-              name: "Local Business Support App",
-              category: "Business Analytics",
-              tools: "Python, SQLite, Streamlit",
-              description: "A comprehensive analytics application designed to help local businesses track performance and gather actionable insights. Built using Python and Streamlit, it leverages an SQLite database to efficiently store and analyze operational data in real-time."
+              name: "Credit Card Fraud Detection System",
+              category: "Machine Learning Application",
+              tools: "Python, Scikit-learn, SMOTE, Streamlit",
+              description: "Machine learning system on a highly imbalanced dataset (0.17% fraud cases), focusing on real-world fraud detection challenges. Applied SMOTE-based resampling to balance data distribution. Built and optimized a Random Forest model achieving high recall with minimal false negatives. Evaluated using precision, recall, and F1-score. Deployed a real-time Streamlit application with probability-based fraud alerts."
             },
             {
-              name: "Resume Screening System",
-              category: "ATS-based Application",
+              name: "Bank Reconciliation Engine",
+              category: "Financial Data System",
               tools: "Python, Pandas, Streamlit",
-              description: "An automated applicant tracking system (ATS) that streamlines the hiring process. This intelligent tool uses Python and Pandas to analyze, filter, and rank resumes based on job requirements, presenting the results through a user-friendly Streamlit interface."
-            },
-            {
-              name: "Smart Expense Analyzer",
-              category: "Data Analytics Dashboard",
-              tools: "Python, Pandas, Matplotlib, Streamlit",
-              description: "A sophisticated data analytics dashboard for finance management. It processes transaction data using Python and Pandas, utilizing Matplotlib to generate intuitive visualizations that map out spending habits and help optimize budgeting."
+              description: "Built a reconciliation system to match transactions between internal records and bank statements, enabling accurate financial validation. Automated identification of matched, missing, and mismatched entries. Handled real-world inconsistencies and developed an interactive dashboard for visualizing discrepancies and tracking reconciliation results."
             }
           ].map((project, index) => (
             <div className="work-box" key={index}>

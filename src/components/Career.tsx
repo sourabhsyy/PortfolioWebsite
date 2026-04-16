@@ -15,7 +15,32 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Bachelor of Science in Computer Science (CGPA: 7.63)</h4>
+                <h4>Data Science Internship</h4>
+                <h5>Eargs Learning Solutions</h5>
+              </div>
+              <h3>Internship</h3>
+            </div>
+            <p>
+              Hands-on experience in data science, machine learning, and analytical model development for business use cases.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Certifications</h4>
+                <h5>IBM & MKCL</h5>
+              </div>
+            </div>
+            <p>
+              IBM Artificial Intelligence Fundamentals <br />
+              Foundation AI and ML - iLike / MKCL <br />
+              Digital Freelancing - iLike / MKCL
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Bachelor of Science in Computer Science (CGPA: 7.12)</h4>
                 <h5>K.V.Pendharkar College of Arts, Science and Commerce</h5>
               </div>
               <h3>2023 – 2026</h3>

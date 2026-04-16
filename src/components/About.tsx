@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Computer Science Undergraduate specializing in Python-based Data Analysis and Automation. Experienced in building ATS-style Resume Screening and Financial Analytics Dashboards using Pandas and Streamlit. Seeking an entry-level role where Analytical Thinking, Problem-solving, and Data-driven decision-making can add Business value.
+          Computer Science undergraduate with experience in Data Analysis and Predictive Modeling. Developed real-world projects including Fraud detection systems, Reconciliation engines, and Analytics dashboards. Strong in problem solving, effective communication, and team collaboration. Interested in Cloud Computing, SaaS product development, and Machine Learning applications.
         </p>
       </div>
     </div>

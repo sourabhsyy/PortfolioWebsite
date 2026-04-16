@@ -90,17 +90,15 @@ const WhatIDo = () => {
               <h3>DATA ANALYSIS</h3>
               <h4>Description</h4>
               <p>
-                Extracting actionable insights from data by performing robust statistical analyses and creating powerful predictive models.
+                Extracting actionable insights from business data by applying statistical analysis, predictive modeling, and machine learning methods.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
                 <div className="what-tags">Python</div>
                 <div className="what-tags">Pandas</div>
                 <div className="what-tags">NumPy</div>
+                <div className="what-tags">Scikit-learn</div>
                 <div className="what-tags">SQL</div>
-                <div className="what-tags">SQLite</div>
-                <div className="what-tags">Data Visualization</div>
-                <div className="what-tags">Matplotlib</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -127,18 +125,19 @@ const WhatIDo = () => {
               <h3>WEB DEVELOPMENT</h3>
               <h4>Description</h4>
               <p>
-                Building responsive and scalable web applications, utilizing modern frameworks and interactive UI patterns.
+                Building responsive and data-driven applications with modern web technologies and deployment workflows.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
                 <div className="what-tags">HTML</div>
                 <div className="what-tags">CSS</div>
+                <div className="what-tags">JavaScript</div>
                 <div className="what-tags">Streamlit</div>
-                <div className="what-tags">Java</div>
                 <div className="what-tags">Git</div>
                 <div className="what-tags">GitHub</div>
-                <div className="what-tags">SaaS</div>
+                <div className="what-tags">Netlify</div>
+                <div className="what-tags">Vercel</div>
+                <div className="what-tags">Clerk Auth</div>
               </div>
               <div className="what-arrow"></div>
             </div>
